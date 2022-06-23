@@ -1,0 +1,52 @@
+region_epa,state.abb
+New England,ME
+New England,VT
+New England,NH
+New England,MA
+New England,CT
+New England,RI
+NY and NJ,NY
+NY and NJ,NJ
+Mid-Atlantic,PA
+Mid-Atlantic,MD
+Mid-Atlantic,DE
+Mid-Atlantic,DC
+Mid-Atlantic,VA
+Mid-Atlantic,WV
+Southeast,KY
+Southeast,TN
+Southeast,NC
+Southeast,SC
+Southeast,GA
+Southeast,AL
+Southeast,MS
+Southeast,FL
+Upper Midwest,MN
+Upper Midwest,WI
+Upper Midwest,MI
+Upper Midwest,IL
+Upper Midwest,IN
+Upper Midwest,OH
+"Midwest, Plains, and S. Central",AR
+"Midwest, Plains, and S. Central",LA
+"Midwest, Plains, and S. Central",OK
+"Midwest, Plains, and S. Central",TX
+"Midwest, Plains, and S. Central",NM
+"Midwest, Plains, and S. Central",NE
+"Midwest, Plains, and S. Central",IA
+"Midwest, Plains, and S. Central",KS
+"Midwest, Plains, and S. Central",MO
+"Midwest, Plains, and S. Central",MT
+"Midwest, Plains, and S. Central",ND
+"Midwest, Plains, and S. Central",SD
+"Midwest, Plains, and S. Central",WY
+"Midwest, Plains, and S. Central",UT
+"Midwest, Plains, and S. Central",CO
+Southwest and West Coast,NV
+Southwest and West Coast,CA
+Southwest and West Coast,AZ
+Southwest and West Coast,HI
+Southwest and West Coast,AK
+Southwest and West Coast,ID
+Southwest and West Coast,OR
+Southwest and West Coast,WA
