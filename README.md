@@ -10,9 +10,11 @@ The files contained herein allow for replication of the results for:
 by Aaron Adalja, Patrick Baur, Martin Wiedmann, and Daniel Weller
 
 root folder:
+
 grower_survey_replication.R - This is the R code file that is used to process the data and generate all tables, figures, and statistics in the paper.
 
 data folder:
+
 survey_04.20.2020.csv - raw survey response data
 epa_region.csv - mapping for US state to modified EPA region
 Region_EPA_Modified.shp - shape file to used for modified EPA regions
